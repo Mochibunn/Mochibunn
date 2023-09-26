@@ -77,4 +77,4 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 
 ### If you're a recruiter for an IT company,
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XeFesFbtLpXzIVDNQP22n?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156336341383139389/spotifyEmbed.png" width=100% /></a>
