@@ -20,3 +20,45 @@ I can also be reached on:
 <a href="https://codesandbox.io/u/mochibunn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" height="32px" style="margin-right:1%"/></a>
 <a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" height="32px" style="margin-right:1%"/></a>
 </p>
+
+----
+</br>
+
+#### What's my tech stack?
+It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
+</br>
+
+<div style="
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;">
+
+<div>
+
+  ##### Language~~s~~
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript logo" height="32px" style="margin-right:1%"/>
+</div>
+<div>
+
+  ##### Front end
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML 5 Logo" height="32px" style="margin-right:1%"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS 3 Logo" height="32px" style="margin-right:1%"/>
+</div>
+<div>
+
+  ##### Language~~s~~
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
+</div>
+<div>
+
+  ##### Language~~s~~
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
+</div>
+<div>
+
+  ##### Language~~s~~
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
+</div>
+
