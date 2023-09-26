@@ -2,7 +2,7 @@
 <h1 align="center">Hello<i>!</i>✨</h1>
 </br>
 
-#### Full Stack Web & App Development student
+### Full Stack Web & App Development student
 
 - Obsessed with rabbits 🐰
 - Avid amateur coder 👩🏻‍💻
@@ -24,7 +24,7 @@ I can also be reached on:
 ----
 </br>
 
-#### What's my tech stack?
+### What's my tech stack?
 It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
 </br>
 
@@ -48,6 +48,9 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML 5 Logo" height="32px"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS 3 Logo" height="32px"/>
+      <a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap icon" height="32px"/>
+      <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="32px"/>
+      <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="32px"/>
     </td>
     <td>
       <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
@@ -60,6 +63,10 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
     <td>
       <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation Logo" height="32px" style="margin-right:1%"/></a>
     </td>
   </tr>
 </tbody>
