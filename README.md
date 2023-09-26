@@ -67,7 +67,14 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
       <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="Wireshark Logo" height="32px" style="margin-right:1%"/></a>
     </td>
   </tr>
 </tbody>
 </table>
+
+----
+
+### If you're a recruiter for an IT company,
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XeFesFbtLpXzIVDNQP22n?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
