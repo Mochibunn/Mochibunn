@@ -2,7 +2,7 @@
 <h1 align="center">Hello<i>!</i>✨</h1>
 </br>
 
-### Full Stack Web & App Development student
+## Full Stack Web & App Development student
 
 - Obsessed with rabbits 🐰
 - Avid amateur coder 👩🏻‍💻
@@ -24,7 +24,7 @@ I can also be reached on:
 ----
 </br>
 
-### What's my tech stack?
+## What's my tech stack?
 It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
 </br>
 
@@ -74,7 +74,8 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 </table>
 
 ----
+</br>
 
-### If you're a recruiter for an IT company,
+# If you're a recruiter for an IT company,
 
 <a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156336341383139389/spotifyEmbed.png" width=100% /></a>
