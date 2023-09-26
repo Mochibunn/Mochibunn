@@ -28,37 +28,39 @@ I can also be reached on:
 It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
 </br>
 
-<div style="
-display: grid;
-grid-template-columns: repeat(5, 1fr);
-grid-template-rows: repeat(2, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;">
 
-<div>
-
-  ##### Language~~s~~
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript logo" height="32px" style="margin-right:1%"/>
-</div>
-<div>
-
-  ##### Front end
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML 5 Logo" height="32px" style="margin-right:1%"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS 3 Logo" height="32px" style="margin-right:1%"/>
-</div>
-<div>
-
-  ##### Language~~s~~
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
-</div>
-<div>
-
-  ##### Language~~s~~
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
-</div>
-<div>
-
-  ##### Language~~s~~
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Skype" height="32px" style="margin-right:1%"/>
-</div>
-
+<table>
+<thead>
+  <tr>
+    <th>Languages</th>
+    <th>Front End</th>
+    <th>Back End</th>
+    <th>Databases</th>
+    <th>Additional Tools</th>
+    
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript logo" height="32px" style="margin-right:1%"/></a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML 5 Logo" height="32px"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS 3 Logo" height="32px"/>
+    </td>
+    <td>
+      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+    </td>
+    <td>
+      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+    </td>
+    <td>
+      <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Logo" height="32px" style="margin-right:1%"/></a>
+    </td>
+  </tr>
+</tbody>
+</table>
