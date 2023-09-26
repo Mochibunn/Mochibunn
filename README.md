@@ -18,7 +18,7 @@ I can also be reached on:
 <a href="https://discordapp.com/users/184834163457785856" target="blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height="32px" style="margin-right:1%"/></a>
 <a href="https://twitter.com/Kidswatteru" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="X" height="32px" style="margin-right:1%; stroke: white"/></a>
 <a href="https://codesandbox.io/u/mochibunn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" height="32px" style="margin-right:1%"/></a>
-<a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" height="32px" style="margin-right:1%"/></a>
+<a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype logo" height="32px" style="margin-right:1%"/></a>
 </p>
 
 ----
