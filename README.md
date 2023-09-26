@@ -1,6 +1,7 @@
 <div style="display:flex; justify-content:center"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156295322318930082/githublogo.png"/></div>
 <h1 align="center">Hello<i>!</i>✨</h1>
 </br>
+
 #### Full Stack Web & App Development student
 
 - Obsessed with rabbits 🐰
@@ -9,6 +10,7 @@
   - Music enjoyer 🎵
 - Old tech connoisseur 📼
 </br>
+
 You can always reach me on **hi@mochibun.me** 📨🐇
 I can also be reached on:
 <p style="margin-left:2em">
