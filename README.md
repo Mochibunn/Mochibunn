@@ -18,7 +18,7 @@ I can also be reached on:
 <a href="https://discordapp.com/users/184834163457785856" target="blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height="32px" style="margin-right:1%"/></a>
 <a href="https://twitter.com/Kidswatteru" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="X" height="32px" style="margin-right:1%; stroke: white"/></a>
 <a href="https://codesandbox.io/u/mochibunn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" height="32px" style="margin-right:1%"/></a>
-<a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype logo" height="32px" style="margin-right:1%"/></a>
+<a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype logo" height="32px" style="margin-right:1%"/></a>
 </p>
 
 ----
@@ -68,6 +68,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
       <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="Wireshark Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.image-line.com/"><img src="https://media.discordapp.net/attachments/199274450011553792/1156487335433740298/FL_Studio_20_Icon.png" alt="FL-Studio Logo" height="32px" style="margin-right:1%"/></a>
     </td>
   </tr>
 </tbody>
