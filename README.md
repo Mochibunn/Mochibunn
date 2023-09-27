@@ -11,7 +11,7 @@
 - Old tech connoisseur 📼
 </br>
 
-You can always reach me on **hi@mochibun.me** 📨🐇
+You can always reach me via email: **hi@mochibun.me** 📨🐇
 I can also be reached on:
 <p style="margin-left:2em">
 <a href="https://t.me/kidswatter" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="32px" style="margin-right:1%"/></a>
