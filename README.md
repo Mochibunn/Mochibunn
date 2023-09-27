@@ -53,12 +53,12 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
       <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="32px"/>
     </td>
     <td>
-      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
-      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+      <a href="https://www.youtube.com/watch?v=sOa4VVlI9tE&ab_channel=FearofDark-Topic"><img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/></a> 
+      <a href="https://www.youtube.com/watch?v=aBJo4QjRNbM"><img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/></a>
     </td>
     <td>
-      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
-      <img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
+      <a href="https://www.youtube.com/watch?v=E-lPrWLzGSM"><img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/></a> 
+      <a href="https://www.youtube.com/watch?v=oi0D2gFnWdw"><img src="https://svgur.com/i/9YV.svg" alt="Question Mark Logo" height="32px" style="margin-right:1%"/> 
     </td>
     <td>
       <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop Logo" height="32px" style="margin-right:1%"/></a>
