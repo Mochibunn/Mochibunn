@@ -11,6 +11,9 @@
 - Old tech connoisseur 📼
 </br>
 
+Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> **React**</a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> **Tailwind**</a> and <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="16px"/> **NextUI**</a>
+</br>
+
 You can always reach me via email: **hi@mochibun.me** 📨🐇
 
 I can also be reached on:
