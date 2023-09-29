@@ -50,6 +50,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML 5 Logo" height="32px"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS 3 Logo" height="32px"/>
       <a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap icon" height="32px"/>
+      <a href="https://tailwindcss.com/"><img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind icon" height="32px"/>
       <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="32px"/>
       <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="32px"/>
     </td>
