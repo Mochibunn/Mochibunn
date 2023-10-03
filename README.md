@@ -7,7 +7,7 @@
 
 <div>
 <img src="./res/about.png" width="50%" align="right" style="margin-right:1em">
-<h2 align="center"> Full Stack Web & App Development student </h2>
+<h2 align="center">🤓Full Stack Web & App Development student </h2>
 
 <p width="50%">
 ‣ Obsessed with rabbits 🐰</br>
@@ -19,7 +19,7 @@
 
 </br>
 
-<p width="50%">Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> <b style="color:black">React</b></a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> <b style="color:black">Tailwind</b></a> and <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="16px"/> <b style="color:black">NextUI</b></a></p>
+<p width="50%">Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> <b style="color:black">React</b></a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> <b style="color:black">Tailwind</b></a> and <a href="https://www.contentful.com/"><img src="./res/contentful_logo.svg" alt="NextUI icon" height="16px"/> <b style="color:black">Contentful</b></a></p>
 </br>
 
 <p>You can always reach me via email: <a href="mailto:hi@mochibun.me"><b>hi@mochibun.me</b></a> 📨🐇</p>
@@ -42,8 +42,8 @@
 </br>
 
 
-## What's my tech stack?
-It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
+<h3 align="center">⚙️What's my tech stack?</h3>
+<p><i>It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's (to a varying degree):</i></p>
 </br>
 
 
@@ -96,17 +96,18 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 ----
 </br>
 
-<p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical" alt="Mochibunn" /></a> </p>
+<h3 align="center">🏆Achievements</h3>
+<p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical&o-frame=true" alt="Mochibunn" /></a> </p>
 
+
+----
+
+<h3 align="center">📈Statistics</h3>
 <p align="center">
 
 <img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochibunn&layout=compact&theme=radical" alt=Mochibunn />
 <img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mochibunn&show_icons=true&locale=en&theme=radical" alt="Mochibunn" />
 </p>
-
-----
-
-<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Mochibunn">
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mochibunn&theme=radical" height="180em" />
