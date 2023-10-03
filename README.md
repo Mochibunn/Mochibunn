@@ -103,7 +103,9 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 <img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochibunn&layout=compact&theme=radical" alt=Mochibunn />
 <img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mochibunn&show_icons=true&locale=en&theme=radical" alt="Mochibunn" />
 </p>
-<img style="border-radius:10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----
+
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Mochibunn">
@@ -113,7 +115,8 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mochibunn&theme=radical" height="180em" />
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mochibunn&theme=radical" height="180em" />
 </div>
-<img style="border-radius:10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----
 
 <h3 align="center">⚡Activity Graph:</h3>
 
@@ -125,6 +128,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 </br>
 
 ----
+<p><img src="https://em-content.zobj.net/source/twitter/376/snake_1f40d.png" width="18px"/> <b>Ssss..</b></p>
 <img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/output/snake.svg" alt="Snake animation" />
 
 <div align="center"> 
