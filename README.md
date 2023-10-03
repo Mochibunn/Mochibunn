@@ -1,8 +1,12 @@
-<img src="https://cdn.discordapp.com/attachments/199274450011553792/1156302374395191417/02035.png" width="100%"/>
-<h1 align="center">Hello<i>!</i>✨</h1>
+<img src="./res/header.png" width="100%"/>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=48&pause=1000&color=009CF7&center=true&vCenter=true&width=435&height=80&lines=Hello!%E2%9C%A8)](#)
+</div>
 </br>
 
-## Full Stack Web & App Development student
+<img src="./res/about.png" width="50%" align="left" style="margin-right:1em">
+<h2 align="center"> Full Stack Web & App Development student </h2>
 
 - Obsessed with rabbits 🐰
 - Avid amateur coder 👩🏻‍💻
@@ -88,3 +92,8 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 </br>
 
 <img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/output/snake.svg" alt="Snake animation" />
+
+<div align="center"> 
+<p><b>Profile Visits</b></p>
+<img src="https://profile-counter.glitch.me/Mochibunn/count.svg" />
+</div>
