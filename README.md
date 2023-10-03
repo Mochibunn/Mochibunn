@@ -101,11 +101,7 @@
 
 
 <h3 align="center">📈Statistics</h3>
-<p align="center">
 
-<img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochibunn&layout=compact&theme=radical" alt=Mochibunn />
-<img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mochibunn&show_icons=true&locale=en&theme=radical" alt="Mochibunn" />
-</p>
 <div align="center">
 <a href="https://github.com/Mochibunn">
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mochibunn&theme=radical" height="180em" />
