@@ -116,7 +116,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 <img style="border-radius:10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">⚡Activity Graph:</h3>
 
-<img style="border-radius:10px" style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/>
+<img style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/>
 
 <h1 align="center">If you're a recruiter for an IT company,</h1>
 
