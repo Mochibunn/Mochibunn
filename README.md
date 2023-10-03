@@ -1,7 +1,7 @@
 <img src="./res/header.png" width="100%"/>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=48&pause=1000&color=009CF7&center=true&vCenter=true&width=435&height=80&lines=Hello!%E2%9C%A8)](#)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=48&pause=1000&color=009CF7&center=true&vCenter=true&width=435&height=80&lines=hello!%E2%9C%A8)](#)
 </div>
 </br>
 
@@ -116,11 +116,11 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mochibunn&theme=radical" height="180em" />
 </div>
 
-----
-
-<h3 align="center">⚡Activity Graph:</h3>
+<h3 align="center">⚡Activity</h3>
 
 <img style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/>
+
+----
 
 <h1 align="center" style="text-decoration:none">If you're a recruiter for an IT company,</h1>
 
