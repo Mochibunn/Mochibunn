@@ -96,14 +96,37 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 ----
 </br>
 
-# If you're a recruiter for an IT company,
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical" alt="Mochibunn" /></a> </p>
+
+<p align="center">
+
+<img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochibunn&layout=compact&theme=radical" alt=Mochibunn />
+<img style="border-radius:10px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mochibunn&show_icons=true&locale=en&theme=radical" alt="Mochibunn" />
+</p>
+<img style="border-radius:10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Mochibunn">
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mochibunn&theme=radical" height="180em" />
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mochibunn&theme=2077" height="180em" />
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mochibunn&theme=radical" height="180em" />
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mochibunn&theme=radical" height="180em" />
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mochibunn&theme=radical" height="180em" />
+</div>
+<img style="border-radius:10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">⚡Activity Graph:</h3>
+
+<img style="border-radius:10px" style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/>
+
+<h1 align="center">If you're a recruiter for an IT company,</h1>
 
 <a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156336341383139389/spotifyEmbed.png" width=100% /></a>
 </br>
 
+----
 <img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/output/snake.svg" alt="Snake animation" />
 
 <div align="center"> 
-<p><b>Profile Visits</b></p>
+<p><b>Profile visits:</b></p>
 <img src="https://profile-counter.glitch.me/Mochibunn/count.svg" />
 </div>
