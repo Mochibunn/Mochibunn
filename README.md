@@ -96,7 +96,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 ----
 </br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical" alt="Mochibunn" /></a> </p>
+<p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical" alt="Mochibunn" /></a> </p>
 
 <p align="center">
 
@@ -110,7 +110,7 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 <div align="center">
 <a href="https://github.com/Mochibunn">
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mochibunn&theme=radical" height="180em" />
-<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mochibunn&theme=2077" height="180em" />
+<img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mochibunn&theme=radical" height="180em" />
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mochibunn&theme=radical" height="180em" />
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mochibunn&theme=radical" height="180em" />
 <img style="border-radius:10px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mochibunn&theme=radical" height="180em" />
