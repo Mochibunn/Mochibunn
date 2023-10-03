@@ -85,3 +85,6 @@ It's incomplete as I'm still studying to become a junior full stack web and app 
 # If you're a recruiter for an IT company,
 
 <a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156336341383139389/spotifyEmbed.png" width=100% /></a>
+</br>
+
+<img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/output/snake.svg" alt="Snake animation" />
