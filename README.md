@@ -29,10 +29,21 @@ I can also be reached on:
 <a href="https://codesandbox.io/u/mochibunn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" height="32px" style="margin-right:1%"/></a>
 <a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype logo" height="32px" style="margin-right:1%"/></a>
 </p>
+</br>
+</br>
+</br>
 </div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ----
 </br>
+
 
 ## What's my tech stack?
 It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's *(to a varying degree)*:
