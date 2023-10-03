@@ -43,7 +43,8 @@
 
 
 <h3 align="center">⚙️What's my tech stack?</h3>
-<p><i>It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's (to a varying degree):</i></p>
+
+> <p><i>It's incomplete as I'm still studying to become a junior full stack web and app dev but so far it's (to a varying degree):</i></p>
 </br>
 
 
@@ -97,7 +98,7 @@
 </br>
 
 <h3 align="center">🏆Achievements</h3>
-<p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical&o-frame=true" alt="Mochibunn" /></a> </p>
+<p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical&no-frame=true" alt="Mochibunn" /></a> </p>
 
 
 ----
