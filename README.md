@@ -95,13 +95,10 @@
 </table>
 
 ----
-</br>
 
 <h3 align="center">🏆Achievements</h3>
 <p align="center"> <a href="#"><img style="border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Mochibunn&theme=radical&no-frame=true" alt="Mochibunn" /></a> </p>
 
-
-----
 
 <h3 align="center">📈Statistics</h3>
 <p align="center">
