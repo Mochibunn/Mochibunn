@@ -5,6 +5,7 @@
 </div>
 </br>
 
+<div>
 <img src="./res/about.png" width="50%" align="left" style="margin-right:1em">
 <h2 align="center"> Full Stack Web & App Development student </h2>
 
@@ -28,6 +29,7 @@ I can also be reached on:
 <a href="https://codesandbox.io/u/mochibunn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" height="32px" style="margin-right:1%"/></a>
 <a href="https://www.youtube.com/watch?v=ta41xU-tkFA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype logo" height="32px" style="margin-right:1%"/></a>
 </p>
+</div>
 
 ----
 </br>
