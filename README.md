@@ -9,7 +9,7 @@
 <img src="./res/about.png" width="50%" align="right" style="margin-right:1em">
 <h2 align="center"> Full Stack Web & App Development student </h2>
 
-<p>
+<p width="50%">
 ‣ Obsessed with rabbits 🐰</br>
 ‣ Avid amateur coder 👩🏻‍💻</br>
 ‣ Vinyl collector 📀</br>
@@ -19,7 +19,7 @@
 
 </br>
 
-<p>Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> <b style="color:black">React</b></a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> <b style="color:black">Tailwind</b></a> and <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="16px"/> <b style="color:black">NextUI</b></a></p>
+<p width="50%">Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> <b style="color:black">React</b></a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> <b style="color:black">Tailwind</b></a> and <a href="https://nextui.org/"><img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="NextUI icon" height="16px"/> <b style="color:black">NextUI</b></a></p>
 </br>
 
 <p>You can always reach me via email: <a href="mailto:hi@mochibun.me"><b>hi@mochibun.me</b></a> 📨🐇</p>
