@@ -6,7 +6,7 @@
 </br>
 
 <div>
-<img src="./res/about.png" width="50%" align="left" style="margin-right:1em">
+<img src="./res/about.png" width="50%" align="right" style="margin-right:1em">
 <h2 align="center"> Full Stack Web & App Development student </h2>
 
 - Obsessed with rabbits 🐰
@@ -33,10 +33,6 @@ I can also be reached on:
 </br>
 </br>
 </div>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
