@@ -124,7 +124,11 @@
 
 ----
 <p><img src="https://em-content.zobj.net/source/twitter/376/snake_1f40d.png" width="18px"/> <b>Ssss..</b></p>
-<img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center"> 
 <p><b>Profile visits:</b></p>
