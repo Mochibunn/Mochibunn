@@ -1,4 +1,4 @@
-<img src="./res/header.png" width="100%"/>
+<a href ="#"><img src="./res/header.png" width="100%"/></a>
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=48&pause=1000&color=009CF7&center=true&vCenter=true&width=435&height=80&lines=hello!%E2%9C%A8)](#)
@@ -6,7 +6,7 @@
 </br>
 
 <div>
-<img src="./res/about.png" width="50%" align="right" style="margin-right:1em">
+<a href ="#"><img src="./res/about.png" width="50%" align="right" style="margin-right:1em"></a>
 <h2 align="center">🤓Full Stack Web & App Development student </h2>
 
 <p width="50%">
@@ -87,7 +87,7 @@
       <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation Logo" height="32px" style="margin-right:1%"/></a>
-      <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="Wireshark Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.wireshark.org/"><img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="Wireshark Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.image-line.com/"><img src="https://media.discordapp.net/attachments/199274450011553792/1156487335433740298/FL_Studio_20_Icon.png" alt="FL-Studio Logo" height="32px" style="margin-right:1%"/></a>
     </td>
   </tr>
@@ -113,7 +113,7 @@
 
 <h3 align="center">⚡Activity</h3>
 
-<img style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/>
+<a href ="#"><img style="border-radius:10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mochibunn&theme=redical"/></a>
 
 ----
 
@@ -134,5 +134,5 @@
 
 <div align="center"> 
 <p><b>Profile visits:</b></p>
-<img src="https://profile-counter.glitch.me/Mochibunn/count.svg" />
+<a href ="#"><img src="https://profile-counter.glitch.me/Mochibunn/count.svg" /></a>
 </div>
