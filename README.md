@@ -19,7 +19,7 @@
 
 </br>
 
-<p width="50%">Currently learning: <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React icon" height="16px"/> <b style="color:black">React</b></a>, <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind icon" height="16px"/> <b style="color:black">Tailwind</b></a> and <a href="https://www.contentful.com/"><img src="./res/contentful_logo.svg" alt="NextUI icon" height="16px"/> <b style="color:black">Contentful</b></a></p>
+<p width="50%">Currently learning: <a href="https://react.dev/"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1164145265968685126/node-js-seeklogo.com.svg" alt="Node.js icon" height="16px"/> <b style="color:black">Node.js</b></a>, <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL icon" height="16px"/> <b style="color:black">PostgreSQL</b></a> and <a href="https://expressjs.com/"><img src="https://media.discordapp.net/attachments/199274450011553792/1164147156534448208/express.png" alt="Express icon" height="16px"/> <b style="color:black">Express</b></a></p>
 </br>
 
 <p>You can always reach me via email: <a href="mailto:hi@mochibun.me"><b>hi@mochibun.me</b></a> 📨🐇</p>
