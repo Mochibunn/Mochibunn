@@ -88,7 +88,7 @@
       <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation Logo" height="32px" style="margin-right:1%"/></a>
       <a href="https://www.wireshark.org/"><img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="Wireshark Logo" height="32px" style="margin-right:1%"/></a>
-      <a href="https://www.image-line.com/"><img src="https://media.discordapp.net/attachments/199274450011553792/1156487335433740298/FL_Studio_20_Icon.png" alt="FL-Studio Logo" height="32px" style="margin-right:1%"/></a>
+      <a href="https://www.image-line.com/"><img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/main/res/FL_Studio_20_Icon.webp" alt="FL-Studio Logo" height="32px" style="margin-right:1%"/></a>
     </td>
   </tr>
 </tbody>
