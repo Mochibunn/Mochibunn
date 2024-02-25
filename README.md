@@ -119,7 +119,7 @@
 
 <h1 align="center" style="text-decoration:none">If you're a recruiter for an IT company,</h1>
 
-<a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://cdn.discordapp.com/attachments/199274450011553792/1156336341383139389/spotifyEmbed.png" width=100% /></a>
+<a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n" alt="Arctic Monkeys - I wanna Be Yours"><img src="https://raw.githubusercontent.com/Mochibunn/Mochibunn/main/res/spotifyEmbed.png" width=100% /></a>
 </br>
 
 ----
