@@ -7,7 +7,7 @@
 
 <div>
 <a href ="#"><img src="./res/about.png" width="50%" align="right" style="margin-right:1em"></a>
-<h2 align="center">🤓Full Stack Web & App Development student </h2>
+<h2 align="center">🤓 Junior Full Stack Web & App Developer</h2>
 
 <p width="50%">
 ‣ Obsessed with rabbits 🐰</br>
